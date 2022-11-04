@@ -21,5 +21,8 @@
     <ClInclude Include="__vm\.ESP32_Blink_LED_Multi_tasking.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="__vm\.Visual_Micro_ESP32_Blink_LED_multi-tasking_free_RTOS.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
