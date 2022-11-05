@@ -38,7 +38,7 @@ void task2(void* Parameters)
         Serial.print(count2++);
         Serial.println(" Turn on LED");
         digitalWrite(LED_BUILTIN, LOW);
-        vTaskDelay(1103 / portTICK_PERIOD_MS);
+        vTaskDelay(1106 / portTICK_PERIOD_MS);
     }
 }
 
